@@ -1,4 +1,4 @@
-<img width="100%" height="auto" src="https://user-images.githubusercontent.com/89597674/219446465-6f8a97da-7bbf-49ce-893d-5a865eea111b.png" data-canonical-src="https://i.imgur.com/iXuL1HG.png" style="max-width: 100%;">
+<img width="100%" height="auto" src="https://user-images.githubusercontent.com/89597674/219446465-6f8a97da-7bbf-49ce-893d-5a865eea111b.png" style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Assaf Alt</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
