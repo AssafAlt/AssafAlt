@@ -11,9 +11,9 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
 <img src="https://www.gstatic.com/devrel-devsite/prod/vd277a93d7226f1fcf53372e6780919bb823bca6ca1c3adbaa8a14ef6554ad67d/firebase/images/lockup.svg" alt="firebase" width="45" height="45"/>
-<img src="https://iconscout.com/icon/postman-3521648" alt="postman" width="45" height="45"/>
+<img src="[https://iconscout.com/icon/postman-3521648](https://github.com/flathub/com.getpostman.Postman/blob/master/logo-mark.svg)" alt="postman" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="java" width="45" height="45"/>
-<img src="![image](https://user-images.githubusercontent.com/89597674/219426516-ad9ddeaa-68cd-4b5e-8b97-390e71ea4beb.png)" alt="android" width="45" height="45"/>
+<img src="https://user-images.githubusercontent.com/89597674/219426516-ad9ddeaa-68cd-4b5e-8b97-390e71ea4beb.png" alt="android" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 
