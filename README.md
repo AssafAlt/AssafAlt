@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Assaf Alt</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 <h2> 🚀 &nbsp;Languages and Tools:</h2>
 <p align="left">
