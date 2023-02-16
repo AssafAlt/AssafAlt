@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/89597674/219444401-4205123d-490e-408f-9c05-5734395ecfc0.png" alt="headear-photo"  />
+<img align="center" src="https://icons8.com/icon/zcwOLL8uIkjK/web-development" alt="headear-photo"  />
 
 <h1 align="center">Hi 👋, I'm Assaf Alt</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
