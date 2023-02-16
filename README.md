@@ -31,7 +31,7 @@
 </p> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="www.linkedin.com/in/assaf-alt-388247233" rel="nofollow"><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
+<p align="left"><a href="www.linkedin.com/in/assaf-alt-388247233" ><img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" data-canonical-src="https://img.icons8.com/fluent/48/000000/linkedin.png" style="max-width: 100%;"></a>
 </p>
 <!--
 **AssafAlt/AssafAlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
