@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Assaf Alt</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
+<h2><g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png">🙋‍♂️</g-emoji>About Me</h2>
 
 
 <h2> 🚀 &nbsp;Languages and Tools:</h2>
@@ -20,6 +21,10 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 <!--
 **AssafAlt/AssafAlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
