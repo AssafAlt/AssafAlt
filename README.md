@@ -6,6 +6,9 @@
   <li> <p><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> I’m currently 3rd year Computer Science student.</p></li>
   <li><p><g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji> Ambitious, self-motivated, hardworking person and a great team player.</p>
 </li>
+  <li>
+<p><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me <strong><a href="mailto:asafalt61@gmail.com">adids1221@gmail.com</a></strong></p>
+</li>
   </ul>
 
 
