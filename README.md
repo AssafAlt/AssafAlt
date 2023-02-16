@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/89597674/219444401-4205123d-490e-408f-9c05-5734395ecfc0.png" alt="headear-photo" width="100" height="50" />
+
 <h1 align="center">Hi 👋, I'm Assaf Alt</h1>
 <h3 align="center">I'm a passionate Full Stack Developer.</h3>
 
