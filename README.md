@@ -26,6 +26,7 @@
 <img src="https://user-images.githubusercontent.com/290451/76235994-04b94800-623d-11ea-9b5b-f7a1626ecb06.png" alt="firebase" width="45" height="45"/>
   <img src="https://www.svgrepo.com/download/354202/postman-icon.svg" alt="postman" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" alt="kotlin" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original.svg" alt="android" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/git/git-original.svg" alt="git" width="45" height="45"/>
