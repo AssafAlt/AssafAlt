@@ -17,7 +17,7 @@
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/react-original.svg" alt="react" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" alt="js" width="45" height="45"/>
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/react/typescript-original.svg" alt="ts" width="45" height="45"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" alt="ts" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-plain.svg" alt="html5" width="45" height="45"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="45" height="45"/>
