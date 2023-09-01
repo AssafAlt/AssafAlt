@@ -4,7 +4,7 @@
 
 <h2><g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png">🙋‍♂️</g-emoji>About Me</h2>
 <ul>
-  <li> <p><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> I’m currently 3rd year Computer Science student.</p></li>
+  <li> <p><g-emoji class="g-emoji" alias="mortar_board" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f393.png">🎓</g-emoji> Graduated with a bachelor's degree in computer science.</p></li>
   <li><p><g-emoji class="g-emoji" alias="muscle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4aa.png">💪</g-emoji> Ambitious, self-motivated, hardworking person and a great team player.</p>
 </li>
   <li>
